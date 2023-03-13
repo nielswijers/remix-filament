@@ -10,6 +10,11 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@filament-theme/base": "0.0.1-alpha.21",
+    "@filament-theme/ddls": "0.0.1-alpha.21",
+    "@filament-theme/fonts": "0.0.1-alpha.21",
+    "@filament/react": "0.0.1-alpha.21",
+    "@remix-run/css-bundle": "^1.14.1",
     "@remix-run/express": "^1.14.1",
     "@remix-run/node": "^1.14.1",
     "@remix-run/react": "^1.14.1",
